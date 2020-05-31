@@ -1,0 +1,9 @@
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\bin\Debug\String Revercer.exe.config
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\bin\Debug\String Revercer.exe
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\bin\Debug\String Revercer.pdb
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\obj\Debug\String Revercer.csprojAssemblyReference.cache
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\obj\Debug\String_Revercer.Form1.resources
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\obj\Debug\String_Revercer.Properties.Resources.resources
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\obj\Debug\String Revercer.csproj.GenerateResource.cache
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\obj\Debug\String Revercer.exe
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\obj\Debug\String Revercer.pdb
