@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/String Revercer/bin/Debug/String Revercer.exe
+/String Revercer/bin/Debug/String Revercer.exe.config
+/String Revercer/bin/Debug/String Revercer.pdb
+*.dll
+*.cs
+/String Revercer/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.cache
+/String Revercer/obj/Debug/String Revercer.csproj.FileListAbsolute.txt
+/String Revercer/obj/Debug/String Revercer.csproj.GenerateResource.cache
+/String Revercer/obj/Debug/String Revercer.exe
+/String Revercer/obj/Debug/String Revercer.pdb
