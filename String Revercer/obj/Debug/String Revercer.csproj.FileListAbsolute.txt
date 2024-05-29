@@ -1,0 +1,20 @@
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\bin\Debug\String Revercer.exe.config
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\bin\Debug\String Revercer.exe
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\bin\Debug\String Revercer.pdb
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\obj\Debug\String Revercer.csprojAssemblyReference.cache
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\obj\Debug\String_Revercer.Form1.resources
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\obj\Debug\String_Revercer.Properties.Resources.resources
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\obj\Debug\String Revercer.csproj.GenerateResource.cache
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\obj\Debug\String Revercer.exe
+C:\Users\hmovaghari\source\repos\String Revercer\String Revercer\obj\Debug\String Revercer.pdb
+D:\Movaghari\Source\CSharp\StringRevercer\String Revercer\bin\Debug\String Revercer.exe.config
+D:\Movaghari\Source\CSharp\StringRevercer\String Revercer\bin\Debug\String Revercer.exe
+D:\Movaghari\Source\CSharp\StringRevercer\String Revercer\bin\Debug\String Revercer.pdb
+D:\Movaghari\Source\CSharp\StringRevercer\String Revercer\obj\Debug\String Revercer.csproj.AssemblyReference.cache
+D:\Movaghari\Source\CSharp\StringRevercer\String Revercer\obj\Debug\String Revercer.csproj.SuggestedBindingRedirects.cache
+D:\Movaghari\Source\CSharp\StringRevercer\String Revercer\obj\Debug\String_Revercer.Form1.resources
+D:\Movaghari\Source\CSharp\StringRevercer\String Revercer\obj\Debug\String_Revercer.Properties.Resources.resources
+D:\Movaghari\Source\CSharp\StringRevercer\String Revercer\obj\Debug\String Revercer.csproj.GenerateResource.cache
+D:\Movaghari\Source\CSharp\StringRevercer\String Revercer\obj\Debug\String Revercer.csproj.CoreCompileInputs.cache
+D:\Movaghari\Source\CSharp\StringRevercer\String Revercer\obj\Debug\String Revercer.exe
+D:\Movaghari\Source\CSharp\StringRevercer\String Revercer\obj\Debug\String Revercer.pdb
